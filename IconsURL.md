@@ -2,7 +2,7 @@
 
 + [Icons8](https://icons8.com/)
 
-[简体中文网](https://igoutu.cn/)
+  - [简体中文网](https://igoutu.cn/)
 
 + [Iconduck](https://iconduck.com/)
 
